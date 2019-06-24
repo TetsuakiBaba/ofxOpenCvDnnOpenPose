@@ -37,8 +37,8 @@ Or you may build your own opencv.framework from opencv source. ( http://tetsuaki
 ## Getting Started with Examples/single_image.
 ### 1. Download models
     $ sh getModels.sh
-### 2. Update single_image with the projectGenerator.
-![single_image screenshot](projectGenerator.png)
+### 2. Update single_image with the projectGenerator. Please be sure to include only ofxOpenCvDnnOpenPose.
+
 ### 3. Run
 
 ## Compatibility
@@ -46,7 +46,10 @@ Or you may build your own opencv.framework from opencv source. ( http://tetsuaki
 - of version: 0.10.1
 
 ## Licence
-[MIT](https://opensource.org/licenses/MIT)
+ - [MIT Lisence](https://opensource.org/licenses/MIT)
+
+## Copyright
+  - Photo of Usain Bolt: Fernando Frazão/Agência Brasil [CC BY 3.0 br (https://creativecommons.org/licenses/by/3.0/br/deed.en)]
 
 ## Author
 [TetsuakiBaba](https://github.com/TetsuakiBaba)
