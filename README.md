@@ -26,9 +26,9 @@ void draw()
 
 
 ## Install
-### 1. Clone ofxOpenCvDnnColorization to your of/addon directory
+### 1. Clone ofxOpenCvDnnOpenPose to your of/addon directory
     $ git clone https://github.com/TetsuakiBaba/ofxOpenCvDnnOpenPose.git
-### 2. Download OpenCV.framework to ofxOpenCvDnnColorization/libs directory. 
+### 2. Download OpenCV.framework to ofxOpenCvDnnOpenPose/libs directory. 
     $ curl -O http://tetsuakibaba.jp/tmp/opencv2.framework.zip
     $ unzip opencv2.framework.zip
    
